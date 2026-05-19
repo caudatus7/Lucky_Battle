@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Eniac_Lucky_Battle/Eniac_Lucky_Battle.vcxproj" Id="d4ae5136-b731-4e59-9cc0-b30d7e43cd1a" />
+</Solution>

@@ -1,0 +1,6 @@
+﻿  LBsystem.c
+  Maincode.c
+C:\Users\ibong\OneDrive\Desktop\code\C\Eniac_Lucky_Battle\Eniac_Lucky_Battle\LBsystem.c(174,2): warning C4102: 'Restart': 참조되지 않은 레이블입니다.
+  코드를 생성하고 있습니다...
+C:\Users\ibong\OneDrive\Desktop\code\C\Eniac_Lucky_Battle\Eniac_Lucky_Battle\LBsystem.c(126,1): warning C4715: 'Mobname': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Eniac_Lucky_Battle.vcxproj -> C:\Users\ibong\OneDrive\Desktop\code\C\Eniac_Lucky_Battle\x64\Debug\Eniac_Lucky_Battle.exe
